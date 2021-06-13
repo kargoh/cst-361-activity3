@@ -4,7 +4,7 @@ public class Track {
 	String title;
 	int number;
 	
-	public Track()
+	public Track(String string, int i)
 	{
 		title = "";
 		number = 0;
